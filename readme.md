@@ -31,8 +31,9 @@ The goal is to classify students into performance categories using structured ta
 
 ## 📂 Repository Structure
 ├── grade-code-prediction.ipynb
+├── Student_performance_data _.csv
+├── student_grade_presentation.html
 ├── README.md
-
 ## 🚀 Future Improvements
 - Hyperparameter tuning (GridSearch / Optuna)
 - Cross-validation
